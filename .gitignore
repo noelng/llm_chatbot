@@ -10,9 +10,6 @@ ENV/
 llm_chatbot/
 .llm_chatbot/
 
-# Neo4j
-Neo4j-4bd54668-Created-2026-01-08.txt
-
 # Chromadb
 langchain_intro/chromadb/
 .langchain_intro/chromadb/
